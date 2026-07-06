@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{
+    /* font-family: "Quicksand", sans-serif; */
+    font-family: "Quicksand", sans-serif;
+    height: 100vh;
+    width: 100vw;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+    background-color: #ffe5ec;
+    /* color: #f9245a; */
+}
+
+#tarte{
+    border-radius: 1000px;
+}
+
+.two-face{
+    display: flex;
+}
+
+h1{
+    margin: 10px 20px 30px 40px;
+    /* padding: 40px 30px 20px 10px; */
+    padding: 20px;
+    border: 1px black solid;
+
+    box-shadow: 10px 10px 50px rgb(80, 78, 78);
+}

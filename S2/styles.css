@@ -1,0 +1,17 @@
+body{}
+.field{}
+
+#r{
+}
+
+
+body form button{
+    background-color: green;
+}
+button{
+    background-color: red;
+}
+
+*{
+    color: red;
+}
